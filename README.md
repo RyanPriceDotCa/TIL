@@ -7,5 +7,8 @@
 ### Command Line Tools
 [Convert videos with avconv](Videos/convert-videos.md)
 
+### Debugging
+[Output a nicely formatted stacktrace in PHP](Debugging/clean-php-stack-trace.md) 
+
 ### MySQL
 [Identify locked tables and unlock them](MySQL/locked_tables.md)
