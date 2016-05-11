@@ -5,7 +5,7 @@
 [Find a file's MIME type](Apache/find-mime-type.md)
 
 ### Command Line Tools
-[Convert videos with avconv](command-line/convert-videos.md)
+[Convert videos with avconv](Videos/convert-videos.md)
 
 ### MySQL
 [Identify locked tables and unlock them](MySQL/locked_tables.md)
