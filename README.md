@@ -10,5 +10,8 @@
 ### Debugging
 [Output a nicely formatted stacktrace in PHP](Debugging/clean-php-stack-trace.md) 
 
+### Drupal
+[Create a URL to login as any user (Drush)](Drupal/login-as-user.md) 
+
 ### MySQL
 [Identify locked tables and unlock them](MySQL/locked_tables.md)
