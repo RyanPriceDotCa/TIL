@@ -15,3 +15,6 @@
 
 ### MySQL
 [Identify locked tables and unlock them](MySQL/locked_tables.md)
+
+### VIM
+[Autocomplete with VIM](VIM/Autocomplete.md)
