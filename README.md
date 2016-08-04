@@ -14,8 +14,8 @@
 [Create a URL to login as any user (Drush)](Drupal/login-as-user.md) 
 
 ### MySQL
-[Dump and Restore Large DBs without large performance hits](MySQL/dumplargedatabases.md) 
-[Identify locked tables and unlock them](MySQL/locked_tables.md)
+[Dump and Restore Large DBs without large performance hits](MySQL/dumplargedatabases.md)  
+[Identify locked tables and unlock them](MySQL/locked_tables.md) 
 
 ### VIM
 [Autocomplete with VIM](VIM/Autocomplete.md)  
