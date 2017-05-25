@@ -23,4 +23,5 @@
 ### VIM
 [Autocomplete with VIM](VIM/Autocomplete.md)  
 [Close All Splits But Current](VIM/CloseAllSplitsButCurrent.md)  
+[NERDTree File Management](VIM/NERDTreeFileManagement.md)  
 
