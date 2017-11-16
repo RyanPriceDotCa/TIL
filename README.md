@@ -23,6 +23,7 @@
 
 ### VIM
 [Autocomplete with VIM](VIM/Autocomplete.md)  
+[Autocomplete with VIM](VIM/BatchFormatFiles.md)  
 [Close All Splits But Current](VIM/CloseAllSplitsButCurrent.md)  
 [NERDTree File Management](VIM/NERDTreeFileManagement.md)  
 
