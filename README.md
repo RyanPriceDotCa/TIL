@@ -1,4 +1,4 @@
-# Today I Learned..
+# Today I Learned...
 
 ### Apache
 [Configure Postfix to only send emails](Apache/postfix-loopback-only.md)  
