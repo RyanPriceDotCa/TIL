@@ -15,6 +15,7 @@
 
 ### Linux
 [Analyze disk space usage](Linux/DiskSpaceCommands.md)  
+[Check Swap Usage](Linux/CheckSwapUsage.md)  
 [Find out how many times an IP shows up in apache logs](Linux/timesByIP.md)  
 [Map disk on linux to VMware (vSphere) SCSI](Linux/MapSCSItoVMware.md)  
 [Recursively list files by last modified date](Linux/recursivelastmodified.md)  
