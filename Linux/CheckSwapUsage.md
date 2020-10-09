@@ -4,6 +4,7 @@ Show swaps happening:
 vmstat 3 100
 ```
 
+```
 Will give a table like:
 procs                  memory    swap         io     system         cpu
  r  b swpd   free  buff cache si   so   bi    bo   in    cs us sy id wa
@@ -14,5 +15,6 @@ procs                  memory    swap         io     system         cpu
  1  1    0 951600 15228 20848  0    0  997   264 2241  3945  6 13  0 81
  0  1    0 947860 17188 20848  0    0  647   280 2386  3985  9  9  1 80
  0  1    0 944932 19304 20848  0    0  705     0 1501  2580  4  9  0 87
+```
 
 The fields si and so show the amount of memory paged in from disk and paged out to disk, respectively. If the server shows continuous swap activity then more memory should be added or the SGA size should be reduced.
