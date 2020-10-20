@@ -25,6 +25,9 @@
 [Remote Dump Database](MySQL/remotedumpsql.md)  
 [Identify locked tables and unlock them](MySQL/locked_tables.md) 
 
+### PHP
+[One-liner: Import CSV](PHP/one-line-csv-import.md)  
+
 ### VIM
 [Autocomplete with VIM](VIM/Autocomplete.md)  
 [Batch Format Files in a Directory](VIM/BatchFormatFiles.md)  
