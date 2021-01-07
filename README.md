@@ -19,6 +19,7 @@
 [Find out how many times an IP shows up in apache logs](Linux/timesByIP.md)  
 [Map disk on linux to VMware (vSphere) SCSI](Linux/MapSCSItoVMware.md)  
 [Recursively list files by last modified date](Linux/recursivelastmodified.md)  
+[Show installed perl modules](Linux/ShowInstalledPerlModules.md)  
 
 ### MySQL
 [Dump and Restore Large DBs without large performance hits](MySQL/dumplargedatabases.md)  
