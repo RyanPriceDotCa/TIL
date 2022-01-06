@@ -13,6 +13,9 @@
 ### Drupal
 [Create a URL to login as any user (Drush)](Drupal/login-as-user.md) 
 
+### Git
+[Search Past Git Commits for String](Git/search-past-changes.md) 
+
 ### Linux
 [Analyze disk space usage](Linux/DiskSpaceCommands.md)  
 [Check Swap Usage](Linux/CheckSwapUsage.md)  
