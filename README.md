@@ -27,8 +27,8 @@
 ### MySQL
 [Dump and Restore Large DBs without large performance hits](MySQL/dumplargedatabases.md)  
 [Remote Dump Database](MySQL/remotedumpsql.md)  
-[Identify locked tables and unlock them](MySQL/locked_tables.md) 
-[Monitor running queries](MySQL/showprocesses.md) 
+[Identify locked tables and unlock them](MySQL/locked_tables.md)     
+[Monitor running queries](MySQL/showprocesses.md)  
 
 ### PHP
 [One-liner: Import CSV](PHP/one-line-csv-import.md)  
